@@ -1,4 +1,4 @@
-package co.edu.co.login.model;
+package co.edu.co.login.model.beans;
 
 public class User {
 
